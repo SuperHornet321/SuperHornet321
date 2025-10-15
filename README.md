@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SuperHornet321
 - 👀 I’m interested in AI, video games, and music
-- 🌱 I’m currently learning how to build a game on GDevelop
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to build mobile apps using Firebase Studio
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: hexagons are my favorite shape
 
